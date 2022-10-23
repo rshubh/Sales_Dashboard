@@ -1,1 +1,2 @@
 # Sales_Dashboard
+The sales data of the Revenue of company was first profiled and cleaned. A new Table was created using Power Bi conditional coloumn. The data validation was performed with drop down list of items.We perform Data Modeling in this project using Power BI . The top Salesperson who brought in the highest revenue was identified. Various other parameters like sum of Revenue in each category was also identified. An interactive visual representation of all the findings was presented with slicers for easy decision making.
